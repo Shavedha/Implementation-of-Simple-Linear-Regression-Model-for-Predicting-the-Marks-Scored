@@ -85,29 +85,28 @@ print("RSME = ",rmse)
 
 ## Output:
 ### Reading the data set
-<img width="547" alt="op1" src="https://user-images.githubusercontent.com/93427376/228585876-02577dff-b89b-4092-b0f3-502bbf72144d.png">
-<img width="401" alt="op2" src="https://user-images.githubusercontent.com/93427376/228587329-84d2ea76-562e-46aa-b258-cf8033982419.png">
+<img width="255" alt="image" src="https://user-images.githubusercontent.com/93427376/229055176-a8118fe4-b541-4970-9a0e-b860d3f43d44.png">
+<img width="234" alt="image" src="https://user-images.githubusercontent.com/93427376/229055240-328abc6d-4a6d-46c7-91f0-8c2f3392fdc5.png">
+
 
 ### Segregating Data into variables
-<img width="404" alt="op3" src="https://user-images.githubusercontent.com/93427376/228587293-f4ff4d32-3353-41f1-925c-228741d7741f.png">
-<img width="568" alt="op4" src="https://user-images.githubusercontent.com/93427376/228587383-70fda72c-c49b-4ed9-b292-a73b5e15b26c.png">
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/93427376/229055740-4b5aae1f-325e-4ce0-906e-1aa178d6ec69.png">
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/93427376/229055956-7ac711cb-f9ec-4070-b8b1-cb7442d93d12.png">
 
 ### Predicted Y values
-<img width="561" alt="op5" src="https://user-images.githubusercontent.com/93427376/228587619-a05d3b55-45f5-432b-a396-b8a6a527f802.png">
+<img width="505" alt="image" src="https://user-images.githubusercontent.com/93427376/229056059-5203afb5-67cc-4d99-a6bd-e5facf73d681.png">
 
 ### Actual Y values
-<img width="510" alt="op6" src="https://user-images.githubusercontent.com/93427376/228587660-12f68500-d41b-49e2-a83f-5e39119cddd4.png">
+<img width="483" alt="image" src="https://user-images.githubusercontent.com/93427376/229056131-bda4990e-3604-445b-b891-395e370985d5.png">
 
 ### Graph for Training Data
-<img width="548" alt="op7" src="https://user-images.githubusercontent.com/93427376/228587985-35d7aa6a-cf42-4940-83cb-328552d88cf0.png">
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/93427376/229056303-d6283810-d45b-4994-a577-564e961b4cf4.png">
 
 ### Graph for Test Data
-<img width="542" alt="op8" src="https://user-images.githubusercontent.com/93427376/228588027-ef4d2f49-cfd3-478c-b220-78b64644f45b.png">
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/93427376/229056379-c370fd43-705f-4c11-9912-e70db105612d.png">
 
 ### Finding the Errors
-<img width="439" alt="op9" src="https://user-images.githubusercontent.com/93427376/228588210-bd302b03-0d87-4443-8a0f-d3db63ed9ed8.png">
-
-
+<img width="256" alt="image" src="https://user-images.githubusercontent.com/93427376/229056491-9a730504-f1f4-4e32-bff5-5a2fa26c85df.png">
 
 
 ## Result:
