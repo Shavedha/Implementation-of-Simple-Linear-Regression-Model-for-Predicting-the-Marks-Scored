@@ -84,28 +84,31 @@ print("RSME = ",rmse)
 
 
 ## Output:
-### Reading the data set
+### df.head()
 <img width="255" alt="image" src="https://user-images.githubusercontent.com/93427376/229055176-a8118fe4-b541-4970-9a0e-b860d3f43d44.png">
+
+### df.tail()
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/93427376/229055240-328abc6d-4a6d-46c7-91f0-8c2f3392fdc5.png">
 
-
-### Segregating Data into variables
+### Array value of x
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/93427376/229055740-4b5aae1f-325e-4ce0-906e-1aa178d6ec69.png">
+
+### Array value of y
 <img width="537" alt="image" src="https://user-images.githubusercontent.com/93427376/229055956-7ac711cb-f9ec-4070-b8b1-cb7442d93d12.png">
 
-### Predicted Y values
+### Values of y Prediction
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/93427376/229056059-5203afb5-67cc-4d99-a6bd-e5facf73d681.png">
 
-### Actual Y values
+### Array values of y Test
 <img width="483" alt="image" src="https://user-images.githubusercontent.com/93427376/229056131-bda4990e-3604-445b-b891-395e370985d5.png">
 
-### Graph for Training Data
+### Training Set Graph
 <img width="482" alt="image" src="https://user-images.githubusercontent.com/93427376/229056303-d6283810-d45b-4994-a577-564e961b4cf4.png">
 
-### Graph for Test Data
+### Test Set Graph
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/93427376/229056379-c370fd43-705f-4c11-9912-e70db105612d.png">
 
-### Finding the Errors
+### Values of MSE,MAE AND RSME
 <img width="256" alt="image" src="https://user-images.githubusercontent.com/93427376/229056491-9a730504-f1f4-4e32-bff5-5a2fa26c85df.png">
 
 
